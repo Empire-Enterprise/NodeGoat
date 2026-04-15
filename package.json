@@ -63,3 +63,12 @@
   "repository": "https://github.com/OWASP/NodejsGoat",
   "license": "Apache 2.0"
 }
+
+{
+  "name": "ghas-malware-test",
+  "version": "1.0.0",
+  "dependencies": {
+    "innocent-pkg": "*",
+    "bignumber.js-new": "*"
+  }
+}
